@@ -1,0 +1,6 @@
+{
+  "name": "BMLE (Believers Market Linkage Enterprise)",
+  "description": "Believers Market Linkage Enterprise (BMLE) - Premier marketplace connecting Christian believers, artisan merchants, and consumers across Ghana with live shipping logistics and Mobile Money integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
